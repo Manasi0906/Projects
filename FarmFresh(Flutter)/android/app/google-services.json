@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "422835842108",
+    "firebase_url": "https://farmfreshpro-d9129-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "farmfreshpro-d9129",
+    "storage_bucket": "farmfreshpro-d9129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422835842108:android:112d3716ca8bdf81456739",
+        "android_client_info": {
+          "package_name": "com.example.language_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp4Gs8VXo9tIrv5g7ZX_BcGQOqtkXCk0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

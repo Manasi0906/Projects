@@ -1,0 +1,87 @@
+name: language_page
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  fl_chart: ^0.69.0
+  image_picker: ^1.1.2
+  animated_text_kit: ^4.2.2
+  table_calendar: ^3.1.2
+  pie_chart: ^5.4.0
+  flutter_translate: ^4.1.0
+  intl: any
+
+  flutter_localizations:
+    sdk: flutter
+  url_launcher: ^6.3.1
+  share_plus: 9.0.0
+  firebase_core: ^3.4.0
+  cloud_firestore: ^5.4.0
+  firebase_auth: ^5.2.0
+  shared_preferences: ^2.3.3
+  video_player: ^2.5.5
+  firebase_storage: ^12.2.0
+  firebase_app_check: ^0.3.1
+  translator: ^1.0.3+1
+  provider: ^6.1.2
+  flutter_spinkit: ^5.2.1
+  
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/farmfresh_logo.jpg
+    - assets/customer to farmer 1.jpg
+    - assets/fast delivery1.jpg
+    - assets/pre order1.jpg
+    - assets/pre order2.jpg
+    - assets/smart farmer.jpg
+    - assets/MyPhotoValid.jpg
+    - assets/mangodemo.webp
+    - assets/news.jpg
+    - assets/eggsHome.jpg
+    - assets/fruits.jpg
+    - assets/grains.jpg
+    - assets/milk.jpg
+    - assets/preorder.jpg
+    - assets/vegetables.jpg
+    - assets/freshlogo.png
+    - assets/nonreturn.png
+    - assets/securetransaction.png
+    - assets/farmfresh_logo.jpg
+    - assets/vegetables/
+    - assets/fruits/
+    - assets/milk/
+    - assets/grains/
+    - assets/milk/milk_products/
+    - assets/eggs/
+    - assets/applelogo.png
+    - assets/fb logo.png
+    - assets/google logo.webp
+    - assets/forgetpass1.png
+    - assets/forgetpass2.png
+    - assets/forgetpass3.png
+    - assets/forgetpass4.png
+    - assets/news/
+    - assets/farmers/
+    - assets/googlepay.jpeg.jpg
+    - assets/phonepay.jpeg.jpg
+    - assets/verified.gif
+    - assets/delivery Profile/
+    - assets/checkmarkimage.jpg
+

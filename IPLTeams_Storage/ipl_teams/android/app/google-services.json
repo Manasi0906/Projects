@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818813756874",
+    "project_id": "inheritedwidgeting",
+    "storage_bucket": "inheritedwidgeting.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818813756874:android:31c29634b992d32c6adb33",
+        "android_client_info": {
+          "package_name": "com.example.auth_inheritedwidget_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHCeSxDqi5TS7CJtXAoGgtOE0to-9Xj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818813756874:android:63e44049c61652676adb33",
+        "android_client_info": {
+          "package_name": "com.example.ipl_teams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHCeSxDqi5TS7CJtXAoGgtOE0to-9Xj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
